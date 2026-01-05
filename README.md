@@ -30,7 +30,8 @@ In the assets directory you can find :
 
 - X_test_app.csv to try bulk test
 - json files with fraud or legitime transaction
-- user guide
+- fraud_xgb_model.pkl (xgboost model)
+- a user guide
 
 
 
