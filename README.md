@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="350" title="Project Logo">
+</p>
+
 # MVP : App "G4 Detection Fraude"
 
 This MVP  of a fraud detection learning machine model has been developed by 3 data scientist students - Selma Rochet, Sébastien Lartigue, Patrick Chardavoine - in the context of a bootcamp provided by Jedha training center.
@@ -12,7 +16,7 @@ The app has 2 modes :
 1. unit tests
 2. bulk tests
 
-## Unit tests
+## Unit test
 
 Unit tests can be done by 2 ways :
 
